@@ -48,3 +48,6 @@ logs/
 
 ### Local data files ###
 hfp_data.txt
+
+### Other files to ignore
+deploy.sh
