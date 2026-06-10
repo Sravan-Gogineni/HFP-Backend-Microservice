@@ -48,3 +48,8 @@ logs/
 
 ### Local data files ###
 hfp_data.txt
+
+## infra files
+*.tfstate
+*.tfstate.backup
+deploy.sh
